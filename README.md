@@ -30,18 +30,16 @@ Também lidero a **Sunflower Studio**, transformando ideias em imagens profissio
 ---
 
 ## ✅ Tecnologias que domino
-- **Backend:** Node.js · Express · Fastify · APIs REST  
+- **Backend:** Node.js · Express · APIs REST  
 - **Frontend:** React · Next.js  
 - **Bancos de dados:** MongoDB · MySQL · Redis  
-- **DevOps / Infra:** Docker · Nginx  
-- **AI / LLMs:** Integração com GPT, Gemini, Claude  
 
 ---
 
 ## 🔥 Tecnologias em evolução
 - **Frontend / Mobile:** Angular · React Native  
 - **Backend / Frameworks:** Nest.js · Fastify  
-- **DevOps / Infra:** Kubernetes  
+- **DevOps / Infra:** Docker · Kubernetes · Nginx
 - **AI / LLMs:** Projetos AI-first e integrações LLM  
 
 ---
