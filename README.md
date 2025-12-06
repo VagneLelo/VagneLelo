@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vagnefotos/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/vagnefotos7/)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@vagnefotos7218)
-[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vagnelelo@gmail.com)
 
 ---
 
