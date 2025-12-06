@@ -13,52 +13,53 @@
 
 ## 💻 Quem sou eu?
 
-Sou um desenvolvedor Full-Stack focado no ecossistema **JavaScript/TypeScript**, criando aplicações modernas, rápidas e escaláveis.  
-Curioso por natureza e movido pela fome de aprender todos os dias.
-
-No código, trabalho com:
-
-- **Backend:** Node.js · Express · APIs REST · Arquitetura limpa  
-- **Frontend:** React · Next.js · Angular  
-- **Mobile:** React Native  
-- **Bancos de dados:** MongoDB · MySQL · Redis  
-- **AI / LLMs:** consumo e integração com GPT, Gemini, Claude, Llama e automações inteligentes  
-
-Também lidero a **Sunflower Studio**, onde transformo ideias em imagens profissionais com identidade e intenção.  
-Pra mim, código e fotografia têm a mesma lógica: **clareza, impacto e propósito**.
+Sou um desenvolvedor Full-Stack focado no ecossistema **JavaScript/TypeScript**, construindo aplicações modernas, rápidas e escaláveis.  
+Curioso por natureza e movido pela vontade de aprender todos os dias.
 
 ---
 
-## 🔥 Actualmente estudando
+## ✅ Tecnologias que já domino
 
-- TypeScript avançado  
-- Angular  
-- React Native  
-- Integração com LLMs (AI, agentes, RAG, embeddings, automações)  
-- Boas práticas de arquitetura e escalabilidade  
+- **Backend:** Node.js · Express · APIs REST  
+- **Frontend:** React · Next.js  
+- **Bancos de dados:** MongoDB · MySQL · Redis  
+
+---
+
+## 🔥 Tecnologias que estou a estudar / evoluindo
+
+- **Frontend / Mobile:** Angular · React Native  
+- **Backend / Frameworks:** Nest.js  
+- **DevOps / Infra:** Nginx · Docker · Kubernetes  
+- **AI / LLMs:** consumo e integração com GPT, Gemini, Claude  
+
+---
+
+## 📸 Sunflower Studio
+
+Além do código, lidero a **Sunflower Studio**, transformando ideias em imagens profissionais com identidade e propósito.  
+Pra mim, código e fotografia têm a mesma lógica: **clareza, impacto e intenção**.
 
 ---
 
 ## 🎯 O que estou a construir
 
-- APIs mais sólidas e seguras  
+- APIs sólidas e escaláveis  
 - Aplicações web modernas  
-- Apps mobile funcionais  
-- Projetos AI-first (com LLMs integrados)  
-- Soluções digitais para elevar a Sunflower Studio  
+- Apps mobile em evolução  
+- Projetos AI-first (LLMs integrados)  
+- Soluções digitais completas para elevar a Sunflower Studio  
 
 ---
 
 ## 📈 Metas
 
-- Funcionar como dev completo (web + mobile + AI)  
-- Criar produtos próprios  
+- Dominar novas stacks de frontend, backend, mobile e AI  
+- Criar produtos próprios e escaláveis  
 - Evoluir a Sunflower Studio como marca digital  
-- Contribuir mais em open source  
+- Contribuir mais para open source  
 - Escalar conhecimentos e impacto  
 
 ---
 
 > _“Velocidade é boa. Consistência é melhor. Mas visão é o que te leva mais longe.”_
-
----
