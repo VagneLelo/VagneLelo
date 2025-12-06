@@ -29,7 +29,7 @@ Curioso por natureza e movido pela vontade de aprender todos os dias.
 ## 🔥 Tecnologias que estou a estudar / evoluindo
 
 - **Frontend / Mobile:** Angular · React Native  
-- **Backend / Frameworks:** Nest.js  
+- **Backend / Frameworks:** Nest.js · Fastify 
 - **DevOps / Infra:** Nginx · Docker · Kubernetes  
 - **AI / LLMs:** consumo e integração com GPT, Gemini, Claude  
 
