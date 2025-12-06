@@ -62,4 +62,4 @@ Pra mim, código e fotografia têm a mesma lógica: **clareza, impacto e intenç
 
 ---
 
-> _“Velocidade é boa. Consistência é melhor. Mas visão é o que te leva mais longe.”_
+> _“É preciso se encaixar e se destacar.”_
