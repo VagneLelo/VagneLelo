@@ -13,7 +13,7 @@
   <a href="https://web.facebook.com/vagnefotos7/">
     <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@vagnefotos7218">
+  <a href="https://www.youtube.com/channel/UCqrwSgYQofbhjRr_ni8TFiA">
     <img alt="YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
   </a>
   <a href="mailto:vagnelelo@gmail.com">
