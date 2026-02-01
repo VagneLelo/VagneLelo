@@ -1,6 +1,6 @@
 <h1 align="center">Vagne Zau Lelo</h1>
 
-### 🚀 Desenvolvedor Full-Stack JavaScript/TypeScript  
+### 🚀 Desenvolvedor Full-Stack (Foco em Backend)  
 ### 📸 CEO & Fotógrafo Profissional — Sunflower Studio  
 
 <p align="center">
@@ -24,23 +24,53 @@
 ---
 
 ## 💻 Sobre mim
-Sou um **desenvolvedor Full-Stack** apaixonado por criar aplicações modernas, rápidas e escaláveis usando **JavaScript/TypeScript**.  
-Também lidero a **Sunflower Studio**, transformando ideias em imagens profissionais com **clareza, impacto e intenção**.
+Sou um **desenvolvedor Full-Stack** apaixonado por criar aplicações modernas, rápidas e escaláveis, com **foco principal em Backend**.  
+Também lidero a **Sunflower Studio**, transformando ideias em imagens profissionais com **clareza, impacto e intenção**.  
+
+Para mim, **código e fotografia seguem a mesma lógica**: planejamento, impacto e propósito.
 
 ---
 
-## ✅ Tecnologias que domino
-- **Backend:** Node.js · Express · APIs REST  
-- **Frontend:** React · Next.js  
-- **Bancos de dados:** MongoDB · MySQL · Redis  
+## 🖥️ Backend / Full-Stack
+<p align="left">
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white"/>
+  <img alt="Fastify" src="https://img.shields.io/badge/-Fastify-000000?style=flat"/>
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+</p>
 
 ---
 
-## 🔥 Tecnologias em evolução
-- **Frontend / Mobile:** Angular · React Native  
-- **Backend / Frameworks:** Nest.js · Fastify  
-- **DevOps / Infra:** Docker · Kubernetes · Nginx
-- **AI / LLMs:** Projetos AI-first e integrações LLM  
+## 🔧 Tecnologias em evolução
+<p align="left">
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+  <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
+</p>
+
+---
+
+## 📸 Fotografia / Sunflower Studio
+<p align="left">
+  <img alt="Photography" src="https://img.shields.io/badge/-Photography-FFC107?style=flat"/>
+  <img alt="Videography" src="https://img.shields.io/badge/-Videography-F44336?style=flat"/>
+  <img alt="Editing" src="https://img.shields.io/badge/-Editing-9C27B0?style=flat"/>
+  <img alt="Storytelling" src="https://img.shields.io/badge/-Storytelling-03A9F4?style=flat"/>
+</p>
+
+Atuo em:  
+- Fotografia profissional (ensaio, eventos, produtos)  
+- Videografia e edição de conteúdo visual  
+- Storytelling visual e criação de identidade para marcas  
 
 ---
 
@@ -49,17 +79,17 @@ Também lidero a **Sunflower Studio**, transformando ideias em imagens profissio
 - Aplicações web modernas  
 - Apps mobile em evolução  
 - Projetos AI-first (LLMs integrados)  
-- Soluções digitais completas para Sunflower Studio  
+- Projetos de Fotografia e Videografia  
 
 ---
 
 ## 📈 Metas
-- Dominar novas stacks de desenvolvimento e AI  
+- Dominar novas stacks de backend e AI  
+- Expandir o Sunflower Studio como marca digital  
 - Criar produtos próprios e escaláveis  
-- Evoluir a Sunflower Studio digitalmente  
 - Contribuir mais para open source  
-- Expandir conhecimento e impacto  
+- Crescer profissionalmente em tecnologia e fotografia  
 
 ---
 
-> _“É preciso se encaixar e se destacar.”_
+> _“É preciso se encaixar e se destacar em tudo que se faz.”_
